@@ -1,0 +1,9 @@
+name: Niro
+repo: https://github.com/efrem-labs/niro-releases
+tagline: iPhone companion for OpenCode sessions on your Mac
+description: Continue OpenCode sessions from an iPhone through Niro Bridge, a local macOS menu-bar companion, over LAN or Tailscale. Requires the Niro iOS app and the macOS Bridge. The repository contains release binaries and documentation; the application source code is not published there.
+homepage: https://niro-2uw.pages.dev
+tags:
+  - ios
+  - mobile
+  - client
